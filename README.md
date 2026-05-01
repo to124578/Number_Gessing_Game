@@ -480,6 +480,6 @@ This project is open source and free to use, modify, and distribute.#   N u m b 
  
 Project URl : https://roadmap.sh/projects/number-guessing-game
 
-Github repo : https://github.com/to124578/Number_Gessing_Game.git
+Github repo : https://github.com/to124578/Number_Guessing_Game.git
 
  
